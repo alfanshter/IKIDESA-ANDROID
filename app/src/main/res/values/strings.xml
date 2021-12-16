@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ikidesa</string>
+    <string name="client_id">772305703638-j66a4qi0h3mr1hob33i5pv72pse0r6u2.apps.googleusercontent.com</string>
+    <string name="title_surat">Surat</string>
+    <string name="title_kuliner">Kuliner</string>
+    <string name="title_profil">Profil</string>
+</resources>

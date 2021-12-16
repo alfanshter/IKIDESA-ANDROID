@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_surat"
+        android:icon="@drawable/surat"
+        android:checkable="true"
+        android:title="@string/title_surat" />
+
+    <item
+        android:id="@+id/navigation_kuliner"
+        
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        android:checkable="true"
+        android:title="@string/title_kuliner" />
+
+    <item
+        android:checkable="true"
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/surat"
+        android:title="@string/title_profil" />
+</menu>
